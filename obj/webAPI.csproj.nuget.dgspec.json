@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj": {}
+    "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj": {
+    "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
+        "projectUniqueName": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
         "projectName": "webAPI",
-        "projectPath": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
+        "projectPath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
         "packagesPath": "C:\\Users\\CUSTOM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\obj\\",
+        "outputPath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CUSTOM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,18 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.15, )"
             },
