@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJ8ozFpwfzO2wFJNK77cG1iYTToCupqxzMY7iWLQFH13DNmJID70MfHfDe58VbE3vb2HS0NgO4KBfNL7fczNpQ==",
+  "dgSpecHash": "1qeVVSl858Q2LAyreX1Gy/vKNTW7qai3FgCO6sEgDmnFd33e6u6Et4/NPbkhYl2XoGrkZmVOAAABoOcNyTDblg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
+  "projectFilePath": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CUSTOM\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\CUSTOM\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

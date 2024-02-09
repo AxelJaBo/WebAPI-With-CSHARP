@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj": {}
+    "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj": {
+    "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
+        "projectUniqueName": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
         "projectName": "webAPI",
-        "projectPath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
+        "projectPath": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\webAPI.csproj",
         "packagesPath": "C:\\Users\\CUSTOM\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\obj\\",
+        "outputPath": "C:\\Users\\CUSTOM\\Desktop\\docu\\PLATZI\\Curso de API con .NET\\webAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CUSTOM\\AppData\\Roaming\\NuGet\\NuGet.Config",
